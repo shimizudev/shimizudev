@@ -1,5 +1,6 @@
 <h1 align="center">Hello, World!</h1>
-## I am Mohtasim Alam Sohom
+
+## I'm Mohtasim Alam Sohom
 
 ## About me
 - 📘 I'm in 7th grade
