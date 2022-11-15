@@ -49,6 +49,6 @@
 
 <p><a href="https://ko-fi.com/sohom829"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sohom829" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohom829&show_icons=true&locale=en&layout=compact" alt="sohom829" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohom829&show_icons=true&locale=en&layout=compact&theme=dark" alt="sohom829" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohom829&show_icons=true&locale=en" alt="sohom829" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sohom829&show_icons=true&locale=en&theme=dark" alt="sohom829" /></p>
