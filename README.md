@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **info@animetown.fun**
 
-- ⚡ Fun fact **I'm interested in Music**
+- ⚡ Fun fact **I'm interested in Music Producing**
 
 <h3 align="left">Connect with me:</h3>
 
