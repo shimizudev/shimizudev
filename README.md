@@ -19,11 +19,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohom829&label=Profile%20views&color=0e75b6&style=flat" alt="sohom829" /> </p>
 
-- 🔭 I’m currently working on [Syc-Logger](https://npmjs.com/syc-logger)
+- 🔭 I’m currently working on [SeasonAPI](https://github.com/SeasonAPI/SeasonAPI)
 
 - 🌱 I’m currently learning **ReactJS, TypeScript**
 
-- 👯 I’m looking to collaborate on [Syc-Logger](https://npmjs.com/syc-logger)
+- 👯 I’m looking to collaborate on [SeasonAPI](https://github.com/SeasonAPI/SeasonAPI)
 
 - 💬 Ask me about **DiscordJS, JavaScript**
 
@@ -51,4 +51,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohom829&show_icons=true&locale=en&layout=compact&theme=dark" alt="sohom829" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohom829&show_icons=true&locale=en&theme=dark" alt="sohom829" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sohom829&show_icons=true&locale=en&theme=dark" alt="sohom829" /></p>
