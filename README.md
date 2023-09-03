@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohom829&label=Profile%20views&color=0e75b6&style=flat" alt="sohom829" /> </p>
 
-- 🔭 I’m currently working on [SeasonAPI](https://github.com/SeasonAPI/SeasonAPI)
+- 🔭 I’m currently working on [Discord Authorize](https://github.com/codeblitz97/discord-authorize)
 
 - 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on [SeasonAPI](https://github.com/SeasonAPI/SeasonAPI)
+- 👯 I’m looking to collaborate on [Discord Authorize](https://github.com/codeblitz97/discord-authorize)
 
 - 💬 Ask me about **ExpressJS, DiscordJS, JavaScript, TypeScript**
 
