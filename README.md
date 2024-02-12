@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Childe Anime](https://github.com/codeblitz97/childe-anime)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Tailwind CSS and Nextjs**
 
 - 👯 I’m looking to collaborate on [Childe Anime]([https://github.com/codeblitz97/discord-authorize](https://github.com/codeblitz97/childe-anime))
 
