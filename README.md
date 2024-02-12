@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeblitz97&label=Profile%20views&color=0e75b6&style=flat" alt="codeblitz97" /> </p>
 
-- 🔭 I’m currently working on [Discord Authorize](https://github.com/codeblitz97/discord-authorize)
+- 🔭 I’m currently working on [Childe Anime](https://github.com/codeblitz97/childe-anime)
 
 - 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on [Discord Authorize](https://github.com/codeblitz97/discord-authorize)
+- 👯 I’m looking to collaborate on [Childe Anime]([https://github.com/codeblitz97/discord-authorize](https://github.com/codeblitz97/childe-anime))
 
-- 💬 Ask me about **ExpressJS, DiscordJS, JavaScript, TypeScript**
+- 💬 Ask me about **ExpressJS, DiscordJS, JavaScript, TypeScript, NextJS, ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
