@@ -19,3 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeblitz97&show_icons=true&locale=en&layout=compact" alt="codeblitz97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeblitz97&" alt="codeblitz97" /></p>
+
+[KoFi](https://ko-fi.com/sohom829)
