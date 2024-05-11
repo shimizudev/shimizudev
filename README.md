@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeblitz97" alt="codeblitz97" /></a> </p>
 
-- 🔭 I’m currently working on [Childe Anime](https://github.com/codeblitz97/childe-anime)
+- 🔭 I’m currently working on [Reveraki](https://github.com/codeblitz97/reveraki)
 
-- ⚡ Fun fact **I am interested in Music**
+- ⚡ Fun fact **I am interested in Music and games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
