@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeblitz97" alt="codeblitz97" /></a> </p>
 
-- 🔭 I’m currently working on [Reveraki](https://github.com/codeblitz97/reveraki)
+- 🔭 I’m currently working on [Elyzen](https://github.com/codeblitz97/elyzen)
 
 - ⚡ Fun fact **I am interested in Music and games**
 
