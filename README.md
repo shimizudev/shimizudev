@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devaoto" alt="devaoto" /></a> </p>
 
-- 🔭 I’m currently working on [Elyzen](https://github.com/codeblitz97/elyzen)
+- 🔭 I’m currently working on [Ayoko](https://github.com/codeblitz97/ayoko)
 
 - ⚡ Fun fact **I am interested in Music and games**
 
