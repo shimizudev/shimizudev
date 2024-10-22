@@ -29,11 +29,11 @@ I'm a full-stack developer who loves working with modern web technologies like *
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devaoto&show_icons=true&theme=radical" alt="devaoto's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaoto&theme=radical" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaoto&langs_count=8&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaoto&langs_count=8&theme=radical&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaoto&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ### 🌐 Connect with me:
