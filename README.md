@@ -10,7 +10,6 @@
 I'm a full-stack developer who loves working with modern web technologies like **Next.js** and **TypeScript**. I'm passionate about building fast, scalable applications and exploring new frameworks. Currently building innovative projects with **Rust** and diving deeper into **backend** architecture.
 
 ### 🛠️ Tech Stack
-### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
