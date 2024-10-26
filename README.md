@@ -29,7 +29,7 @@ I'm a full-stack developer who loves working with modern web technologies like *
 
 ### 💻 Programming Languages
 - **TypeScript**: Expert 💪
-- **Rust**: Intermediate 🚀
+- **Rust, Python**: Intermediate 🚀
 - **C++**, **Java**, **C#**: Barely use, but I can manage 😅
 
 ### 📊 GitHub Stats
