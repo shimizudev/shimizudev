@@ -1,59 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mohtasim Alam Sohom</h1>
-<h3 align="center">A passionate Fullstack Developer from Bangladesh 🇧🇩</h3>
+<h2 align="left">Hi 👋! My name is Shimizu Saruto</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devaoto&label=Profile%20views&color=0e75b6&style=flat" alt="devaoto" />
-  <img src="https://img.shields.io/github/followers/devaoto?label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/devaoto?label=Stars" alt="Stars" />
-</p>
+###
 
-I'm a full-stack developer who loves working with modern web technologies like **Next.js** and **TypeScript**. I'm passionate about building fast, scalable applications and exploring new frameworks. Currently building innovative projects with **Rust** and diving deeper into **backend** architecture.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devaoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devaoto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Drizzle-FF69B4?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bun-3C3C3D?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
+###
 
-### 💻 Programming Languages
-- **JavaScript, TypeScript**: Expert 💪
-- **Rust, Python**: Intermediate 🚀
-- **C++**, **Java**, **C#**: Barely use, but I can manage 😅
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/94981761?v=4"  />
 
-### 📊 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devaoto&show_icons=true&theme=codeSTACKr" alt="devaoto's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaoto&langs_count=8&theme=codeSTACKr&layout=compact" alt="Top Languages" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+</div>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaoto&theme=codeSTACKr" alt="GitHub Streak Stats" />
-</p>
+###
 
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://twitter.com/sohom_829" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.sohom829.xyz" target="blank">
-  <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="sohom829.xyz"/>
-</a>
-</p>
+<br clear="both">
 
-<p align="center">
-  <a href="https://ko-fi.com/Q5Q7FZAHA" target="_blank">
-    <img height="45" style="border:0px;height:45px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/devaoto/devaoto/output/snake.svg" alt="Snake animation" />
 
+###
