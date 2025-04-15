@@ -36,7 +36,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/shimizudev/shimizudev/output/snake.svg" alt="Snake animation" />
-
 ###
